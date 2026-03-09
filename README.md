@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?color=0A66C2&logo=linkedin&style=for-the-badge)][linkedin]
 
-I'm a **Senior Platform & Cloud Engineer** with 7+ years building and operating cloud-native platforms at high-growth startups. Strong expertise in AWS, Kubernetes, IaC, GitOps, and distributed systems, with a solid backend engineering background.
+I'm a Platform Engineer with 7+ years building and operating cloud-native platforms at high-growth startups. Strong expertise in AWS, Kubernetes, IaC, GitOps, and distributed systems, with a solid backend engineering background.
 
 I like getting to the core of complex infrastructure problems and eventually simplifying them so engineering teams can ship faster. That is how [gostrap][gostrap] started: **a CLI to fully scaffold GitOps repositories in seconds. That is my current main side project.**
 
