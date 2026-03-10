@@ -28,7 +28,7 @@ I enjoy simplifying complex infrastructure problems and turning them into reliab
 
 ## Featured project
 
-**gostrap** — GitOps scaffolding CLI for production-ready repository bootstrapping.
+[**gostrap**] — GitOps scaffolding CLI for production-ready repository bootstrapping.
 
 Built to simplify GitOps adoption by generating standardized repository structures for production environments, accelerating setup and reducing operational friction.
 
