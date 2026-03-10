@@ -22,14 +22,13 @@ I enjoy simplifying complex infrastructure problems and turning them into reliab
 - Designing and operating production-grade platforms on **AWS + Kubernetes (EKS)**, from architecture to observability.
 - Building reproducible, auditable infrastructure with **Terraform / OpenTofu** and enforcing security by design: IAM, secrets management, SOC 2, ISO 27001.
 - Defining **GitOps** strategies that make environments declarative, versioned, and reviewable.
-- Automating everything that can be automated (Python, Bash, AI agents).
+- Automating infrastructure workflows and internal tooling (Python, Bash, AI agents).
 - **Mentoring** engineers who want to grow in the platform and cloud space.
-- Open source, cloud, security and community.
-
+- Interested in open source, cloud security and platform engineering communities.
 
 ## Featured project
 
-**gostrap** — CLI to scaffold GitOps repositories in seconds.
+**gostrap** — GitOps scaffolding CLI for production-ready repository bootstrapping.
 
 Built to simplify GitOps adoption by generating standardized repository structures for production environments, accelerating setup and reducing operational friction.
 
