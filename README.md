@@ -1,7 +1,5 @@
 ### Hey, I'm José 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?color=0A66C2&logo=linkedin&style=for-the-badge)][linkedin]
-
 I'm a Platform / Cloud Engineer with 7+ years designing, building and operating cloud-native platforms in high-growth environments. Strong expertise in AWS, Kubernetes, Terraform, GitOps and platform architecture.
 
 I enjoy simplifying complex infrastructure problems and turning them into reliable platform patterns that engineering teams can use every day.
