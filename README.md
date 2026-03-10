@@ -28,7 +28,7 @@ I enjoy simplifying complex infrastructure problems and turning them into reliab
 
 ## Featured project
 
-[**gostrap**] — GitOps scaffolding CLI for production-ready repository bootstrapping.
+[**gostrap**](https://github.com/y0s3ph/gostrap) — GitOps scaffolding CLI for production-ready repository bootstrapping.
 
 Built to simplify GitOps adoption by generating standardized repository structures for production environments, accelerating setup and reducing operational friction.
 
@@ -38,4 +38,3 @@ Built to simplify GitOps adoption by generating standardized repository structur
 [<img align="left" alt="y0s3ph | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br />
 
 [linkedin]: https://www.linkedin.com/in/jph91/
-[gostrap]: https://github.com/y0s3ph/gostrap
